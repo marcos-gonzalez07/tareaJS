@@ -1,2 +1,6 @@
-console.log("mensaje de alerta")
+
 alert("un mensaje")
+
+document.writeln("hello world")
+
+document.writeln(3+5 )
